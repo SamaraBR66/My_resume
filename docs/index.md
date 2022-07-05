@@ -2,7 +2,7 @@
 layout: cv
 title: Samara's Resume
 ---
-# Samara Becerra
+# Samara M. Becerra Rodriguez
 
 
 <div id="webaddress">
@@ -16,15 +16,15 @@ title: Samara's Resume
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2011-2015`
+__Teaching English to Speakers of Other Languages__, 
+- Puebla, Mexico.
+- Benemerita Universidad Autonoma de Puebla 
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+`Expected 2023`
+__Business Analytics__
+- Brigham Young University 
+- Rexburg, ID
 
 
 ## Related Experience
