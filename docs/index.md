@@ -16,69 +16,67 @@ title: Samara's Resume
 
 ## Education
 
-`2011-2015`
-__Teaching English to Speakers of Other Languages__, 
-- Puebla, Mexico.
-- Benemerita Universidad Autonoma de Puebla 
-
-`Expected 2023`
 __Business Analytics__
+`Expected 2023`
 - Brigham Young University 
 - Rexburg, ID
+- `GPA 3.7`
 
+`2011-2015`
+__Teaching English to Speakers of Other Languages TESOL__
+- Benemerita Universidad Autonoma de Puebla 
+- Puebla, Mexico.
 
-## Related Experience
+## Relevant Experience
+`April 2022 - Present`
+Sales Analyst 
+Kick-it Shoe Outlet
 
-### Internships
+• Forecasted Online Sales of $18,760 for 2022 last quarters 
+• Identified most profitable months by wrangling raw data
+• Reported Data to Analytics Team using visualizations
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2020 - July 2020`
+__Shopper Marketing Project Analyst__, Rexburg, ID
+Danone products at Walmart, Target and Ahold
+• Reduced $40,000+ weekly expenses by reporting COVID impact on sales to Shopper Marketing Director
+• Produced new visual ROI methodology for company's investments by creating Tableau charts
+• Analyzed sales trends and organized insight for teams' presentations twice a week
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Work Experience
+`October 2021 - Present`
+__Marketing Channel Manager__, Rexburg, ID
+University Relations BYU-Idaho
 
-### Data Science Lead
+• Led Email Marketing for 19,217 students and 1,849 faculty members
+• Directed Financial Aid campaigns of 6,000+ contact lists successfully meeting deadlines
+• Reached over 5,000 students by writing proposal to increase click-through and open rate
+• Created weekly Power BI reports on channel performance for clients
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2021 - October 2021`
+__Marketing Specialist__, Idaho Falls, ID 
+Nuvue Marketing
+• Automated Marketing Campaigns processes for 5 companies around the country
+• Designed digital marketing for realtor client, body sculpting business, and Nuvue agency
+• Built SEO for Spiral Financial Company towards their new website's launch
+• Attained a 4.8 rating for Horizon PWR company by Optimizing Google Business Profile
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 2018 - December 2018`
+__Bilingual Financial Trainer__, Puebla, Mexico 
+Intermex Money Transfer LLC
+• Developed keen analytical skills by ensuring authenticity of sensitive data for financial payments.
+• Trained store agents to solve technical problems with payment method system.
+• Created budgeting strategies with up to 70 agents a week
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Hard Skills
+Excel Certified
+SQL Intermediate 
+Python Basic 
+SEO Certified
+Tablea and Power BI Advanced
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2016-2017`
+__Service Missionary__, Roseville, CA
 
 
 
