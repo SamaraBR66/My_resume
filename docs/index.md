@@ -4,7 +4,7 @@ title: Samara's Resume
 ---
 # Samara M. Becerra Rodriguez
 
-
+#
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
